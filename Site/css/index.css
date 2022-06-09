@@ -24,15 +24,7 @@ h2 {
 #navegar h2 {
   margin: 0;
   line-height: 60px;
-  margin-left: 55px;
-}
-
-#navegar img {
-  height: 40px;
-  transform: rotate(0deg);
-  position: absolute;
-  top: 10px;
-  border-radius: 50%
+  float: left;
 }
 
 #navegar nav {
@@ -84,8 +76,8 @@ body section {
 }
 
 #banner-info img {
-  height: 120px;
-  border-radius: 50%;
+  height: 200px;
+  border-radius: 30%;
   background-color:transparent;
   margin-top: 30px;
   margin-bottom: 30px;
