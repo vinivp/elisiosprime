@@ -1,7 +1,7 @@
 /* geral */
 body {
   margin: 0;
-  font-family: Roboto;
+  font-family: Arial, Helvetica, sans-serif;
   padding: 0;
 }
 
@@ -50,13 +50,6 @@ h2 {
 }
 
 /* Fundo */
-body section {
-  background: linear-gradient(black, black, blue);
-  height: 500px;
-  text-align: center;
-  color: #FFF;
-  padding-top: 1vh;
-}
 
  /* banner */
  #main-banner {
